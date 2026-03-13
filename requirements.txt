@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+chromadb
+pandas
+sentence-transformers
+scikit-learn
+groq
